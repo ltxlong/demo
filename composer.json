@@ -1,0 +1,13 @@
+{
+    "name": "ltxlong/demo",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ltxlong",
+            "email": "416803647@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
